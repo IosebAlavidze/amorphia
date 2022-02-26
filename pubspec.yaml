@@ -29,7 +29,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  google_fonts: ^2.2.0
+  google_fonts: ^2.3.1
 
 
 
@@ -81,7 +81,24 @@ flutter:
     - assets/Tile_14.jpg
     - assets/Tile_15.jpg
     - assets/Tile_16.jpg
-
+    - assets/Puzzle_1.jpg
+    - assets/Mile_1.jpg
+    - assets/Mile_2.jpg
+    - assets/Mile_3.jpg
+    - assets/Mile_4.jpg
+    - assets/Mile_5.jpg
+    - assets/Mile_6.jpg
+    - assets/Mile_7.jpg
+    - assets/Mile_8.jpg
+    - assets/Mile_9.jpg
+    - assets/Mile_10.jpg
+    - assets/Mile_11.jpg
+    - assets/Mile_12.jpg
+    - assets/Mile_13.jpg
+    - assets/Mile_14.jpg
+    - assets/Mile_15.jpg
+    - assets/Mile_16.jpg
+    - assets/Puzzle_2.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
